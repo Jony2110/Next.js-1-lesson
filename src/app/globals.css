@@ -29,3 +29,8 @@ html {
   scroll-behavior: smooth;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Bentham&display=swap');
+
+body {
+  font-family: 'Bentham';
+}
